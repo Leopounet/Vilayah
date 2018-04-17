@@ -47,7 +47,9 @@
 		<Linker>
 			<Add directory="../SFML-2.4.2-windows-gcc-4.9.2-tdm-32-bit/SFML-2.4.2/lib" />
 		</Linker>
+		<Unit filename="includes/Editor.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Editor.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
